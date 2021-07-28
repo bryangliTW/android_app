@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Random</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="first_layer">first_layer</string>
+    <string name="second_layer">second_layer</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello">hello</string>
 </resources>
