@@ -18,4 +18,7 @@
     <string name="button_8">button 8</string>
     <string name="button_9">button 9</string>
     <string name="button_10">button 10</string>
+    <string name="helloTitle">Hello!</string>
+    <string name="sign_up">Signup</string>
+    <string name="log_in">Login</string>
 </resources>

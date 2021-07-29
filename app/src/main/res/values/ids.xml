@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sign_in_button" type="id">sign_in_button</item>
+    <item name="log_in_button" type="id">log_in_button</item>
+    <item name="hello_title" type="id">hello_title</item>
+    <item name="github_logo" type="id">github_logo</item>
+</resources>
